@@ -1,4 +1,4 @@
 # project
 quiz app
 <br>
-Author-tahreem noman
+Author-tahreem noman(project)
